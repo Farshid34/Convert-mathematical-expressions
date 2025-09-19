@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Flash\\Sakhteman Dade\\Sakhteman Project\\Convert\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8143E684-FB93-43F4-8375-9B296407F7B0}|ConsoleApp1\\ConsoleApp1.csproj|g:\\flash\\sakhteman dade\\sakhteman project\\convert\\consoleapp1\\convertinfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8143E684-FB93-43F4-8375-9B296407F7B0}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\convertinfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8143E684-FB93-43F4-8375-9B296407F7B0}|ConsoleApp1\\ConsoleApp1.csproj|G:\\Flash\\Sakhteman Dade\\Sakhteman Project\\Convert\\consoleapp1\\convertprefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8143E684-FB93-43F4-8375-9B296407F7B0}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\convertprefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8143E684-FB93-43F4-8375-9B296407F7B0}|ConsoleApp1\\ConsoleApp1.csproj|G:\\Flash\\Sakhteman Dade\\Sakhteman Project\\Convert\\consoleapp1\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8143E684-FB93-43F4-8375-9B296407F7B0}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8143E684-FB93-43F4-8375-9B296407F7B0}|ConsoleApp1\\ConsoleApp1.csproj|G:\\Flash\\Sakhteman Dade\\Sakhteman Project\\Convert\\consoleapp1\\convertpostfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8143E684-FB93-43F4-8375-9B296407F7B0}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\convertpostfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8143E684-FB93-43F4-8375-9B296407F7B0}|ConsoleApp1\\ConsoleApp1.csproj|G:\\Flash\\Sakhteman Dade\\Sakhteman Project\\Convert\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8143E684-FB93-43F4-8375-9B296407F7B0}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "convertinfix.cs",
+              "DocumentMoniker": "G:\\Flash\\Sakhteman Dade\\Sakhteman Project\\Convert\\ConsoleApp1\\convertinfix.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\convertinfix.cs",
+              "ToolTip": "G:\\Flash\\Sakhteman Dade\\Sakhteman Project\\Convert\\ConsoleApp1\\convertinfix.cs",
+              "RelativeToolTip": "ConsoleApp1\\convertinfix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:00:53.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "convertprefix.cs",
+              "DocumentMoniker": "G:\\Flash\\Sakhteman Dade\\Sakhteman Project\\Convert\\ConsoleApp1\\convertprefix.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\convertprefix.cs",
+              "ToolTip": "G:\\Flash\\Sakhteman Dade\\Sakhteman Project\\Convert\\ConsoleApp1\\convertprefix.cs",
+              "RelativeToolTip": "ConsoleApp1\\convertprefix.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwAwAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:00:53.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "convertpostfix.cs",
+              "DocumentMoniker": "G:\\Flash\\Sakhteman Dade\\Sakhteman Project\\Convert\\ConsoleApp1\\convertpostfix.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\convertpostfix.cs",
+              "ToolTip": "G:\\Flash\\Sakhteman Dade\\Sakhteman Project\\Convert\\ConsoleApp1\\convertpostfix.cs",
+              "RelativeToolTip": "ConsoleApp1\\convertpostfix.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:00:53.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "home.cs",
+              "DocumentMoniker": "G:\\Flash\\Sakhteman Dade\\Sakhteman Project\\Convert\\ConsoleApp1\\home.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\home.cs",
+              "ToolTip": "G:\\Flash\\Sakhteman Dade\\Sakhteman Project\\Convert\\ConsoleApp1\\home.cs",
+              "RelativeToolTip": "ConsoleApp1\\home.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:00:53.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Flash\\Sakhteman Dade\\Sakhteman Project\\Convert\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "G:\\Flash\\Sakhteman Dade\\Sakhteman Project\\Convert\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:00:53.482Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
